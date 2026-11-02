@@ -1,0 +1,63 @@
+{
+  "id": "exemplo-nuvemshop-categorias",
+  "kicker": "Dica Nuvemshop",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Categorias que *vendem*: organize sua loja Nuvemshop em 4 passos",
+      "subtitle": "Seu cliente precisa achar o produto em até 3 cliques."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Pense como o cliente, não como o estoque",
+      "body": "Nomeie categorias pelo que o cliente procura: **Vestidos de festa** funciona melhor que **Coleção Linha B**. Use as palavras que ele digitaria no Google."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "No máximo 2 níveis de profundidade",
+      "body": "Categoria e subcategoria bastam. Menu com 4 níveis esconde produto e confunde no celular, onde está a maior parte das visitas."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Um produto pode estar em mais de uma categoria",
+      "body": "Uma camiseta pode aparecer em **Camisetas** e em **Promoções**. Isso aumenta as chances de o cliente encontrar o item sem duplicar o cadastro."
+    },
+    {
+      "type": "list",
+      "title": "Checklist rápido de cada categoria",
+      "items": [
+        "Nome claro, com a palavra que o cliente busca",
+        "Descrição curta no topo da página (ajuda no SEO)",
+        "Banner ou imagem que represente a categoria",
+        "Pelo menos 4 produtos ativos",
+        "Ordem: mais vendidos primeiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Quer sua loja Nuvemshop organizada para vender?",
+      "body": "A Ubee implanta e estrutura sua loja do zero, pronta para converter.",
+      "button": "Fale com a Ubee"
+    }
+  ],
+  "story": {
+    "title": "Seu cliente acha o produto em *3 cliques*?",
+    "body": "4 passos para organizar as categorias da sua loja Nuvemshop.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Como organizar categorias na Nuvemshop para vender mais",
+    "subtitle": "4 passos e um checklist para estruturar o menu da sua loja.",
+    "button": "Leia no blog"
+  },
+  "feed": {
+    "type": "tip",
+    "title": "Menu com mais de *2 níveis* esconde produto",
+    "body": "Categoria e subcategoria bastam. No celular, cada clique a mais é um cliente a menos."
+  }
+}
