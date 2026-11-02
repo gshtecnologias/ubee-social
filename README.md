@@ -48,3 +48,7 @@ Corpo do artigo em Markdown (H2/H3, listas, FAQ no final).
 ```
 
 O site em Laravel importa os artigos lendo `blog/index.json` e cada `.md` listado.
+
+## Importador para o Laravel
+
+`laravel/ImportUbeeBlogPosts.php` é um comando Artisan (`php artisan ubee:import-blog`) que lê o índice, converte o Markdown em HTML e faz upsert pelo slug. Artigos com data futura são ignorados até a hora chegar. Ajuste o model e as colunas no método `upsertPost()`.
