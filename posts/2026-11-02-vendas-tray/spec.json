@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-02-vendas-tray",
+  "kicker": "Parceiro Tray",
+  "handle": "@ubeedigital",
+  "site": "tray.com.br/parceria/ubeedigital",
+  "carousel": [
+    {"type": "cover", "title": "Vai abrir sua loja virtual? Conheça a *Tray*", "subtitle": "Recursos de venda prontos, pagamentos e envios integrados e conexão com marketplaces."},
+    {"type": "step", "n": 1, "title": "Mais de 600 recursos de venda nativos", "body": "**Order bump**, recuperação de **carrinho abandonado**, **cupons** e muito mais já vêm na plataforma, sem depender de apps extras."},
+    {"type": "step", "n": 2, "title": "Pagamentos e envios integrados", "body": "**Tray Pagamentos** e **Tray Envios** fazem parte da plataforma, para você vender e despachar com menos configuração."},
+    {"type": "step", "n": 3, "title": "Venda também nos marketplaces", "body": "Conforme o plano, sua loja se conecta aos principais marketplaces. São mais de **2.000 integrações** disponíveis."},
+    {"type": "step", "n": 4, "title": "Não quer montar sozinho? Tem Loja Pronta", "body": "Na opção **Loja Pronta**, a equipe da Tray monta a loja para você, com **treinamento ao vivo** incluso."},
+    {"type": "cta", "title": "Crie sua loja Tray com a Ubee", "body": "Use nosso link de parceiro e conte com a Ubee Digital na implantação e no layout.", "button": "Link na bio"}
+  ]
+}

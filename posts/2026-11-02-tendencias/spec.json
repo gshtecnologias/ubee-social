@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-02-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "E-commerce cresceu *16,9%* no 1º semestre de 2026", "subtitle": "Mais pedidos, ticket menor e os segmentos em alta. O que isso muda na sua loja?"},
+    {"type": "step", "n": 1, "title": "Pedidos subiram 34,8%", "body": "Foram **756,7 milhões de pedidos** e **R$ 208,4 bilhões** em vendas no semestre.\n\nFonte: Confi e E-commerce Brasil."},
+    {"type": "step", "n": 2, "title": "Mas o ticket médio caiu 13,3%", "body": "O consumidor está comprando **mais vezes, gastando menos por pedido**: ticket médio de **R$ 275,50** e menos itens por compra."},
+    {"type": "list", "title": "Segmentos em alta", "items": ["**Moda e acessórios:** líder em faturamento", "**Vestuário esportivo:** alta de 139,3%", "**TVs:** alta de 28,9%, puxada pela Copa", "**Casa e construção** e **esporte e lazer** em crescimento"]},
+    {"type": "list", "title": "Como aproveitar na sua loja", "items": ["Monte **kits** para subir o ticket", "Frete grátis com **valor mínimo**", "**Order bump** no checkout", "Campanhas frequentes para quem já comprou"]},
+    {"type": "cta", "title": "Quer sua loja pronta para esse cenário?", "body": "A Ubee implanta e otimiza lojas Tray e Nuvemshop para vender mais.", "button": "Fale com a Ubee"}
+  ]
+}

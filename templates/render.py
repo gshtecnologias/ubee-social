@@ -285,20 +285,83 @@ def render(spec, outdir):
     report = {"files": [], "warnings": []}
     with sync_playwright() as p:
         browser = p.chromium.launch(executable_path=_chrome(), args=["--allow-file-access-from-files"])
-        for name, w, h, doc in jobs:
+
+        def shoot(name, w, h, doc, dest):
             pg = browser.new_page(viewport={"width": w, "height": h}, device_scale_factor=1)
-            tmp = outdir / (name + ".html")
+            tmp = dest.parent / (dest.name + ".html")
             tmp.write_text(doc, encoding="utf-8")
             pg.goto(tmp.as_uri())
             pg.wait_for_function("window.__ready === true", timeout=15000)
             warns = pg.evaluate("window.__fitWarnings")
-            pg.screenshot(path=str(outdir / name), type="png")
+            pg.screenshot(path=str(dest), type="png")
             tmp.unlink()
             pg.close()
+            return warns
+
+        for name, w, h, doc in jobs:
+            warns = shoot(name, w, h, doc, outdir / name)
             report["files"].append(str(outdir / name))
             report["warnings"] += [f"{name}: {x} não coube, encurte o texto" for x in warns]
+
+        # vídeo vertical para TikTok, YouTube Shorts e Reels
+        sources = [outdir / f"carousel-{i+1:02d}.png" for i in range(len(slides))] or \
+                  ([outdir / "feed.png"] if spec.get("feed") else [])
+        if spec.get("video", True) and sources:
+            framedir = outdir / "_frames"
+            framedir.mkdir(exist_ok=True)
+            frames = []
+            for i, src in enumerate(sources):
+                dest = framedir / f"f{i:02d}.png"
+                shoot(dest.name, 1080, 1920, video_frame(src, spec), dest)
+                frames.append(dest)
+            video = outdir / "video.mp4"
+            make_video(frames, video, per_slide=spec.get("video_seconds_per_slide", 3.5))
+            for f in frames:
+                f.unlink()
+            framedir.rmdir()
+            report["files"].append(str(video))
         browser.close()
     return report
+
+
+# ---------------- vídeo ----------------
+
+def video_frame(img_path, spec):
+    inner = f"""
+    {hexa('width:900px;height:900px;right:-380px;top:-200px')}
+    {hexa('width:700px;height:700px;left:-320px;bottom:-200px', stroke='rgba(255,255,255,.09)')}
+    <img src='{ASSETS}/logo-white.png' style='position:absolute;left:50%;transform:translateX(-50%);top:170px;width:300px'>
+    <img src='{pathlib.Path(img_path).resolve().as_uri()}'
+         style='position:absolute;left:60px;top:330px;width:960px;height:1200px;border-radius:36px;box-shadow:0 30px 80px rgba(7,26,61,.35)'>
+    <div style='position:absolute;left:0;right:0;top:1585px;text-align:center;font-weight:700;font-size:38px;color:#fff'>
+      Siga {esc(spec.get('handle','@ubeedigital'))}</div>
+    """
+    return page(1080, 1920, "blue", inner)
+
+
+def make_video(frames, out, per_slide=3.5, fade=0.5):
+    import subprocess
+    n = len(frames)
+    dur = per_slide if n > 1 else 7.0
+    cmd = ["ffmpeg", "-y", "-loglevel", "error"]
+    for f in frames:
+        cmd += ["-loop", "1", "-t", str(dur), "-i", str(f)]
+    cmd += ["-f", "lavfi", "-t", str(n * dur), "-i", "anullsrc=channel_layout=stereo:sample_rate=44100"]
+    if n == 1:
+        filt = "[0:v]scale=1080:1920,format=yuv420p,fps=30[v]"
+    else:
+        parts, last = [], "[0:v]"
+        for k in range(1, n):
+            offset = k * (dur - fade)
+            label = f"[x{k}]"
+            parts.append(f"{last}[{k}:v]xfade=transition=fade:duration={fade}:offset={offset:.2f}{label}")
+            last = label
+        filt = ";".join(parts) + f";{last}format=yuv420p,fps=30[v]"
+    total = n * dur - (n - 1) * fade if n > 1 else dur
+    cmd += ["-filter_complex", filt, "-map", "[v]", "-map", f"{n}:a",
+            "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
+            "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", str(out)]
+    subprocess.run(cmd, check=True)
 
 
 def _chrome():
