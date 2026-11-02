@@ -17,6 +17,9 @@ posts/AAAA-MM-DD-vendas-nuvemshop/ venda de planos Nuvemshop (15h)
 posts/AAAA-MM-DD-tendencias/      tendências (20h)
 blog/                 artigos em Markdown com front matter (um por dia útil)
 blog/index.json       lista dos artigos, do mais novo para o mais antigo
+pages/                guias, páginas por segmento, temas e materiais (pages/index.json)
+site/                 pacote de integração com o site Laravel (veja site/INSTRUCOES-CLAUDE-CODE.md)
+reports/              relatórios semanais de desempenho
 ```
 
 ## Gerar artes
@@ -52,6 +55,6 @@ Corpo do artigo em Markdown (H2/H3, listas, FAQ no final).
 
 O site em Laravel importa os artigos lendo `blog/index.json` e cada `.md` listado.
 
-## Importador para o Laravel
+## Integração com o site
 
-`laravel/ImportUbeeBlogPosts.php` é um comando Artisan (`php artisan ubee:import-blog`) que lê o índice, converte o Markdown em HTML e faz upsert pelo slug. Artigos com data futura são ignorados até a hora chegar. Ajuste o model e as colunas no método `upsertPost()`.
+Use o pacote em `site/` (comando `php artisan ubee:sync-content`, rotas, views, schema JSON-LD, `llms.txt` e sitemap). O passo a passo para o Claude Code do VS Code está em `site/INSTRUCOES-CLAUDE-CODE.md`. O antigo `laravel/ImportUbeeBlogPosts.php` foi substituído por esse pacote.
