@@ -269,7 +269,7 @@ def pin(p, spec):
 # ---------------- execução ----------------
 
 def render(spec, outdir):
-    outdir = pathlib.Path(outdir)
+    outdir = pathlib.Path(outdir).resolve()
     outdir.mkdir(parents=True, exist_ok=True)
     jobs = []
     slides = spec.get("carousel") or []
