@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-02-tray-frete-gratis-regiao",
+  "kicker": "Dica Tray",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Frete grátis por região na Tray *sem perder margem*",
+      "subtitle": "4 passos para usar o frete grátis como estratégia, não como prejuízo."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Escolha onde o frete grátis vale a pena",
+      "body": "Olhe seus pedidos por estado e região. Comece pelas regiões onde o frete é mais barato ou onde está a maior parte dos seus clientes."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Defina um valor mínimo de pedido",
+      "body": "Coloque o mínimo **um pouco acima do seu ticket médio**. Assim o cliente adiciona mais um item para ganhar o frete, e o custo do envio cabe na margem."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Configure na Tray por faixa de CEP",
+      "body": "A Tray permite configurar frete grátis pelo **Tray Envios** e criar tabelas de frete **por faixa de CEP**. O passo a passo está na base de conhecimento oficial da Tray."
+    },
+    {
+      "type": "list",
+      "title": "Mostre o benefício para o cliente",
+      "items": [
+        "Ative o contador de frete grátis no carrinho",
+        "Faixa no topo da loja com a regra e a região",
+        "Aviso na página do produto",
+        "Regra clara: valor mínimo e onde vale"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Quer configurar o frete da sua loja Tray do jeito certo?",
+      "body": "A Ubee implanta e ajusta sua loja Tray, do frete ao checkout.",
+      "button": "Fale com a Ubee"
+    }
+  ],
+  "story": {
+    "title": "Frete grátis está *comendo sua margem*?",
+    "body": "Veja como liberar por região na Tray e ainda aumentar o ticket médio.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Frete grátis por região na Tray sem perder margem",
+    "subtitle": "Como escolher regiões, definir valor mínimo e mostrar o benefício na loja.",
+    "button": "Leia no blog"
+  }
+}
