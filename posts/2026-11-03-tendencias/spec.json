@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "Marketplaces: onde vender em *2026*", "subtitle": "Quem concentra a audiência do e-commerce brasileiro e como usar isso a favor da sua loja."},
+    {"type": "step", "n": 1, "title": "Mercado Livre lidera", "body": "**16% da audiência** do e-commerce em dez/2025, com **416 milhões** de acessos no mês.\n\nFonte: Conversion."},
+    {"type": "step", "n": 2, "title": "Shopee domina o app", "body": "**12,5% de share** no ranking geral e **39,2% do tráfego de aplicativos** do e-commerce (nov/2025).\n\nFonte: Conversion."},
+    {"type": "step", "n": 3, "title": "Amazon completa o pódio", "body": "**9,7% de share** em dez/2025. A **Shein** vem em 4º lugar em acessos.\n\nFonte: Conversion."},
+    {"type": "list", "title": "Como usar na sua loja", "items": ["Marketplace dá **alcance**, loja própria dá **margem**", "Comece por **1 ou 2** canais do seu público", "**Estoque integrado** para não vender sem ter", "Atraia no marketplace, **fidelize** na loja"]},
+    {"type": "cta", "title": "Loja própria e marketplaces juntos", "body": "A Ubee implanta lojas Tray e Nuvemshop prontas para crescer em vários canais.", "button": "Fale com a Ubee"}
+  ]
+}
