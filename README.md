@@ -20,6 +20,7 @@ blog/index.json       lista dos artigos, do mais novo para o mais antigo
 pages/                guias, páginas por segmento, temas e materiais (pages/index.json)
 site/                 pacote de integração com o site Laravel (veja site/INSTRUCOES-CLAUDE-CODE.md)
 reports/              relatórios semanais de desempenho
+social/               método de social media (PLAYBOOK.md), voz da marca, hashtags e cópia das skills de Instagram
 ```
 
 ## Gerar artes
