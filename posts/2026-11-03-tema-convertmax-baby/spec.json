@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-03-tema-convertmax-baby",
+  "kicker": "Tema Tray",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br/temas-prontos",
+  "carousel": [
+    {"type": "cover", "title": "Sua loja infantil merece um visual tão *encantador* quanto seus produtos", "subtitle": "Conheça o Convert Max Baby, tema da Ubee Digital para a Tray."},
+    {"type": "step", "n": 1, "title": "Delicado, em tons pastel e feito para vender", "body": "Pensado para **moda infantil**, **enxoval**, **pijamas**, **banho** e **acessórios**. Transmite carinho e confiança desde o primeiro clique."},
+    {"type": "step", "n": 2, "title": "Compra sem atrito", "body": "**Carrinho lateral**, **compra rápida**, **filtro inteligente** e **cálculo de frete** direto na página do produto."},
+    {"type": "step", "n": 3, "title": "Mais itens em cada pedido", "body": "Aumente o ticket médio com **kits**, **compre junto**, **desconto progressivo** e **brinde** por produto ou por valor."},
+    {"type": "step", "n": 4, "title": "Perfeito no celular", "body": "**100% responsivo**, com **2 produtos por linha**, topo flutuante e **WhatsApp** sempre à mão do seu cliente."},
+    {"type": "cta", "title": "Convert Max Baby: 12x de *R$ 44,33*", "body": "Banners editáveis, gabarito e pacote de ícones inclusos. Veja a demonstração completa.", "button": "Link na bio"}
+  ],
+  "feed": {
+    "type": "highlight",
+    "title": "O tema que faltava para sua *loja infantil*",
+    "body": "Convert Max Baby: delicado, 100% responsivo e com kits, compre junto e brindes. 12x de **R$ 44,33** na Tray."
+  },
+  "story": {
+    "title": "Você vende *moda infantil*?",
+    "body": "Tem um tema novo feito sob medida para a sua loja.",
+    "cta": "Responda a enquete"
+  }
+}
