@@ -1,0 +1,15 @@
+{
+  "id": "2026-11-05-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "Vestuário esportivo cresceu *139%* no e-commerce", "subtitle": "4 segmentos em alta para abrir loja, com dados do 1º semestre de 2026 (Confi)."},
+    {"type": "step", "n": 1, "title": "Vestuário esportivo", "body": "**+139,3%** no 1º semestre de 2026 e **R$ 1,9 bilhão** em vendas online.\n\nFonte: Confi e E-commerce Brasil."},
+    {"type": "step", "n": 2, "title": "Casa e construção", "body": "**+26,9%** de faturamento no 1º semestre de 2026, comparado ao mesmo período de 2025.\n\nFonte: Confi e E-commerce Brasil."},
+    {"type": "step", "n": 3, "title": "Moda e acessórios", "body": "**+23,1%** e o maior faturamento entre as categorias: **R$ 19,3 bilhões** no semestre.\n\nFonte: Confi e E-commerce Brasil."},
+    {"type": "step", "n": 4, "title": "Esporte e lazer", "body": "**+20,9%** de faturamento no 1º semestre de 2026, comparado ao mesmo período de 2025.\n\nFonte: Confi e E-commerce Brasil."},
+    {"type": "list", "title": "Como usar se vai abrir loja", "items": ["Escolha um **nicho** dentro do segmento", "Segmento em alta atrai **concorrência**: diferencie na marca", "Valide com **poucos produtos** antes de estocar", "Loja própria + marketplace para **testar a demanda**"]},
+    {"type": "cta", "title": "Vai abrir loja em um desses segmentos?", "body": "A Ubee implanta lojas Tray e Nuvemshop prontas para vender.", "button": "Fale com a Ubee"}
+  ]
+}

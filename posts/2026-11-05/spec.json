@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-05-pagina-de-produto",
+  "kicker": "E-commerce",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "7 itens que toda *página de produto* precisa", "subtitle": "O 1º muita loja esconde no carrinho. Confira se a sua está nessa lista."},
+    {"type": "step", "n": 1, "title": "Frete e prazo na própria página", "body": "O cliente quer saber **quanto paga e quando chega** antes de decidir. Deixe o campo de CEP perto do botão de compra, não só no carrinho."},
+    {"type": "step", "n": 2, "title": "Fotos que mostram o produto de verdade", "body": "Produto inteiro, **detalhe de perto**, em uso e uma foto que dê noção de tamanho. Na loja virtual, a foto substitui o toque."},
+    {"type": "step", "n": 3, "title": "Título com o que o cliente procura", "body": "**Tênis de corrida masculino leve** funciona melhor que **Modelo Runner X2**. Use as palavras que ele digitaria no Google."},
+    {"type": "step", "n": 4, "title": "Descrição que responde as dúvidas", "body": "Para quem é, **medidas, material**, o que vem na caixa e como conservar. Benefícios primeiro, especificações em lista logo abaixo."},
+    {"type": "step", "n": 5, "title": "Preço e pagamento perto do botão", "body": "Parcelas, **Pix, cartão e boleto** visíveis sem rolar a página. Desconto no Pix? Escreva a condição de forma simples."},
+    {"type": "list", "title": "6 e 7: o que passa confiança", "items": ["**Avaliações** de quem já comprou, com foto quando der", "Resumo de **trocas e devolução** em 2 ou 3 linhas", "**Contato fácil** (WhatsApp ou chat) para tirar dúvidas"]},
+    {"type": "cta", "title": "Revise primeiro os 10 produtos que mais vendem", "body": "Abra cada página no celular e passe os 7 itens. Salve o post para fazer com calma.", "button": "Salve o post"}
+  ],
+  "story": {
+    "title": "Sua página de produto mostra o *frete*?",
+    "body": "7 itens que toda página de produto precisa ter.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Página de produto: 7 itens que toda loja virtual precisa ter",
+    "subtitle": "Frete, fotos, título, descrição, pagamento e confiança: o checklist completo.",
+    "button": "Leia no blog"
+  }
+}
