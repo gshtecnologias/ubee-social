@@ -8,6 +8,7 @@ Gera PNGs a partir de um JSON com as chaves opcionais:
   feed     : post único        (1080x1350)
   story    : story             (1080x1920)
   pin      : pin Pinterest     (1000x1500)
+  blog_cover: capa do blog     (1200x630)
 Veja exemplo-spec.json para o formato completo.
 """
 import json, sys, html, pathlib
@@ -266,6 +267,22 @@ def pin(p, spec):
     return page(1000, 1500, "blue", inner)
 
 
+def blog_cover(b, spec):
+    """Capa de artigo do blog (1200x630, também serve de imagem Open Graph)."""
+    inner = f"""
+    {hexa('width:620px;height:620px;right:-150px;top:-150px')}
+    {hexa('width:340px;height:340px;right:170px;top:330px', stroke='rgba(255,255,255,.08)')}
+    <div style='position:absolute;left:72px;top:64px'><span class='chip' style='font-size:20px;padding:12px 22px'><i></i>{esc(b.get('kicker', spec.get('kicker','')))}</span></div>
+    <div class='fit' data-name='titulo da capa do blog' data-min='40'
+         style='position:absolute;left:72px;right:260px;top:150px;height:270px;font-size:64px;font-weight:800;line-height:1.06;letter-spacing:-.02em;display:flex;align-items:flex-end'><div>{esc(b.get('title'))}</div></div>
+    <div class='fit' data-name='subtitulo da capa do blog' data-min='20'
+         style='position:absolute;left:72px;right:300px;top:440px;height:70px;font-size:28px;font-weight:500;line-height:1.3;color:rgba(255,255,255,.9)'>{esc(b.get('subtitle',''))}</div>
+    <img src='{ASSETS}/logo-white.png' style='position:absolute;left:72px;bottom:44px;width:190px'>
+    <span style='position:absolute;right:72px;bottom:50px;font-weight:600;font-size:22px;color:rgba(255,255,255,.85)'>{esc(spec.get('site','ubee.com.br'))}</span>
+    """
+    return page(1200, 630, "blue", inner)
+
+
 # ---------------- execução ----------------
 
 def render(spec, outdir):
@@ -281,6 +298,8 @@ def render(spec, outdir):
         jobs.append(("story.png", 1080, 1920, story(spec["story"], spec)))
     if spec.get("pin"):
         jobs.append(("pin.png", 1000, 1500, pin(spec["pin"], spec)))
+    if spec.get("blog_cover"):
+        jobs.append(("blog-cover.png", 1200, 630, blog_cover(spec["blog_cover"], spec)))
 
     report = {"files": [], "warnings": []}
     with sync_playwright() as p:
