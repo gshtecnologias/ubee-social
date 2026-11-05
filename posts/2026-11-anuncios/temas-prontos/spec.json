@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-anuncios-temas",
+  "kicker": "Temas prontos",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br/temas-prontos",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Sua loja Tray com *cara de marca* sem pagar layout exclusivo",
+      "subtitle": "Temas prontos da Ubee Digital para Moda, Beleza, Tech, Decoração e Infantil."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Feito para o seu segmento",
+      "body": "Cada tema foi pensado para um nicho: **Moda, Beleza, Tech, Decoração e Infantil**."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Rápido no celular",
+      "body": "Performance **90+ no Lighthouse** e layout responsivo com foco no mobile."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Personalize sem código",
+      "body": "Troque **cores, fontes e banners** pelo painel. Estrutura de SEO já pronta."
+    },
+    {
+      "type": "cta",
+      "title": "Escolha o tema da sua loja",
+      "body": "Instalação com suporte da Ubee Digital.",
+      "button": "ubee.com.br/temas-prontos"
+    }
+  ]
+}

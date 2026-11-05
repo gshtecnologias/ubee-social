@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-anuncios-tray",
+  "kicker": "Loja Tray",
+  "handle": "@ubeedigital",
+  "site": "tray.com.br/parceria/ubeedigital",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Vai abrir sua loja virtual? Comece com *tudo integrado*",
+      "subtitle": "Pagamento, envio e marketplaces no mesmo painel, na Tray."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Mais de 600 recursos de venda",
+      "body": "Cupom, carrinho abandonado, avaliações, SEO e mais, **nativos** na plataforma."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Pagamento e envio integrados",
+      "body": "**Tray Pagamentos** e **Tray Envios**, além de mais de **2.000 integrações**."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Venda em marketplaces",
+      "body": "Conecte sua loja aos marketplaces **conforme o plano**, com um estoque só."
+    },
+    {
+      "type": "cta",
+      "title": "Crie sua loja pelo link da Ubee",
+      "body": "E conte com a Ubee Digital na implantação.",
+      "button": "Criar minha loja Tray"
+    }
+  ]
+}

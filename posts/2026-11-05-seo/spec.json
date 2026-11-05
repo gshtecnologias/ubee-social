@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-05-seo",
+  "kicker": "Loja de moda",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Loja de moda online: *6 pontos* que respondem \"vai servir em mim?\"",
+      "subtitle": "O 1º muita loja deixa escondido no rodapé. Confira a sua."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Tabela de medidas ao lado do tamanho",
+      "body": "Medidas **reais de cada modelagem**, em centímetros, perto da seleção de tamanho. Se veste pequeno, avise."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Fotos vestidas de frente, costas e lado",
+      "body": "Mostre o **caimento**, um detalhe do tecido e informe a **altura e o tamanho da modelo**."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Um produto com variações, não vários",
+      "body": "Tamanho e cor como **variações com estoque próprio**. O cliente escolhe tudo na mesma página."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": "Título com o que o cliente busca",
+      "body": "**Vestido midi de linho** aparece no Google. **Look Primavera 07**, não."
+    },
+    {
+      "type": "list",
+      "title": "5 e 6: troca e confiança",
+      "items": [
+        "**Resumo da política de trocas** na página de produto",
+        "**Avaliações com foto** e o tamanho que a pessoa usou"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Guia completo de loja virtual de moda",
+      "body": "Tray ou Nuvemshop, layout, frete e erros comuns. Link na bio.",
+      "button": "Salve o post"
+    }
+  ],
+  "pin": {
+    "title": "Loja virtual de moda: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Tabela de medidas, fotos, variações, frete e trocas: o guia do segmento.",
+    "button": "Leia o guia"
+  },
+  "blog_cover": {
+    "kicker": "Loja virtual de moda",
+    "title": "Loja virtual de *moda*: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Medidas, fotos, variações, frete e trocas"
+  }
+}

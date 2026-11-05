@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-anuncios-implantacao",
+  "kicker": "Implantação",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Sua loja Tray ou Nuvemshop *pronta para vender*, sem você montar sozinho",
+      "subtitle": "A Ubee Digital implanta a loja completa, do layout ao primeiro pedido."
+    },
+    {
+      "type": "list",
+      "title": "O que entra na implantação",
+      "items": [
+        "Configuração de **pagamentos e frete**",
+        "**Layout** com a identidade da marca",
+        "Catálogo estruturado para **SEO**",
+        "Integrações e **testes de compra**"
+      ]
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Migrando de plataforma?",
+      "body": "Levamos produtos e clientes e criamos os **redirecionamentos** para não perder o que já aparece no Google."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "E depois do lançamento",
+      "body": "Acompanhamos as primeiras semanas e ajustamos o que o **cliente real** mostrar."
+    },
+    {
+      "type": "cta",
+      "title": "Fale com a Ubee Digital",
+      "body": "Agência especialista em Tray e Nuvemshop.",
+      "button": "Pedir orçamento"
+    }
+  ]
+}

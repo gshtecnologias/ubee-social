@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "slug": "loja-tray",
+    "date": "2026-11-05T09:00:00-03:00",
+    "title": "Guia completo da loja Tray: do plano ao lançamento",
+    "path": "pages/guia-loja-tray.md",
+    "type": "guia"
+  },
+  {
+    "slug": "moda",
+    "date": "2026-11-05T09:00:00-03:00",
+    "title": "Loja virtual de moda: como montar na Tray ou na Nuvemshop",
+    "path": "pages/segmento-moda.md",
+    "type": "segmento"
+  },
+  {
+    "slug": "checklist-lancamento-loja-virtual",
+    "date": "2026-11-05T09:00:00-03:00",
+    "title": "Checklist de lançamento de loja virtual (PDF gratuito)",
+    "path": "pages/material-checklist-lancamento-loja-virtual.md",
+    "type": "material"
+  }
+]
