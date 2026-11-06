@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-06-implantacao-completa",
+  "kicker": "Ubee Digital",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "O que entra numa *implantação completa* de loja virtual", "subtitle": "As 7 etapas que a Ubee segue na Tray e na Nuvemshop. A 6ª é a que muita loja pula."},
+    {"type": "step", "n": 1, "title": "Pagamentos e frete configurados", "body": "Pix, cartão, boleto e parcelamento revisados. Frete com prazo e **cálculo na página do produto**, não só no carrinho."},
+    {"type": "step", "n": 2, "title": "Layout com a cara da marca", "body": "Tema pronto ou **layout exclusivo**, sempre revisado primeiro no celular: busca visível, banner com uma mensagem só, filtros úteis."},
+    {"type": "step", "n": 3, "title": "Catálogo estruturado para o Google", "body": "Categorias pelo que o cliente procura, no máximo **2 níveis**, e títulos e descrições pensados para **SEO**."},
+    {"type": "step", "n": 4, "title": "Só as integrações que vão ser usadas", "body": "Marketplaces, ERP e envio ligados para o lançamento, com **estoque centralizado**. O resto fica para depois."},
+    {"type": "step", "n": 5, "title": "Migração sem perder o Google", "body": "Vindo de outra plataforma? Levamos **produtos e clientes** e criamos os **redirecionamentos** dos endereços antigos."},
+    {"type": "list", "title": "6 e 7: antes e depois de abrir", "items": ["**Compras de teste** de ponta a ponta: frete, cada pagamento, e-mails e estoque", "**Acompanhamento** das primeiras semanas, ajustando o que o cliente real mostrar"]},
+    {"type": "cta", "title": "Loja implantada é loja pronta para o *1º pedido*", "body": "Toda semana tem conteúdo sobre Tray e Nuvemshop por aqui. Siga para não perder.", "button": "Siga @ubeedigital"}
+  ],
+  "story": {
+    "title": "O que entra numa *implantação completa*?",
+    "body": "As 7 etapas que a Ubee segue para deixar a loja pronta para vender.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Implantação de loja virtual: o que inclui na Tray e na Nuvemshop",
+    "subtitle": "Pagamentos, frete, layout, SEO, integrações, testes e pós-lançamento.",
+    "button": "Leia no blog"
+  }
+}
