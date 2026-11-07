@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-07-tema-moda",
+  "kicker": "Temas prontos",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br/temas-prontos",
+  "carousel": [
+    {"type": "cover", "title": "Sua loja de moda *demora* para abrir no celular?", "subtitle": "5 pontos do Tema Moda da Ubee Digital para Tray. O 2º ajuda toda vez que a coleção muda."},
+    {"type": "step", "n": 1, "title": "Pensado primeiro para o celular", "body": "Layout responsivo com foco no **mobile**: vitrine, fotos e botão de compra organizados para a tela pequena, onde muita cliente chega pelo Instagram."},
+    {"type": "step", "n": 2, "title": "Troca de coleção sem programar", "body": "**Cores, fontes e banners** personalizados sem código. Mudou a estação? Você atualiza a vitrine sem esperar por desenvolvedor."},
+    {"type": "step", "n": 3, "title": "Feito para abrir rápido", "body": "Performance **90+ no Lighthouse**, a ferramenta do Google que mede velocidade e qualidade da página. Loja de moda tem muita foto, e cada segundo conta."},
+    {"type": "step", "n": 4, "title": "Estrutura de SEO pronta", "body": "Base organizada para o Google ler categorias e produtos. Com títulos como **vestido midi de linho**, a peça fica mais fácil de achar na busca."},
+    {"type": "step", "n": 5, "title": "Instalação com suporte da Ubee", "body": "Você não coloca o tema no ar sozinho: a equipe da **Ubee Digital** acompanha a instalação na sua loja **Tray**."},
+    {"type": "cta", "title": "Compare com a sua loja hoje", "body": "Abra sua loja no celular e confira os 5 pontos. Salve o post para fazer com calma.", "button": "Salve o post"}
+  ],
+  "story": {
+    "title": "Sua loja de moda abre *rápido* no celular?",
+    "body": "5 pontos do Tema Moda da Ubee Digital para Tray.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Tema Moda para Tray: 5 pontos para sua loja virtual de moda",
+    "subtitle": "Foco no celular, velocidade, SEO, personalização sem código e suporte na instalação.",
+    "button": "Veja o tema"
+  }
+}

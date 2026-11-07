@@ -1,0 +1,53 @@
+{
+  "id": "2026-11-07-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Black Friday deve movimentar *R$ 13,3 bi* nas lojas online",
+      "subtitle": "Projeção da Confi Neotrust para 26 a 29/11/2026, +20,7% sobre 2025. O que esperar e como preparar a loja."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Mais pedidos, carrinho menor",
+      "body": "De janeiro a setembro de 2026: pedidos **+34,9%** e ticket médio **-13,4%** sobre 2025.\n\nFonte: Confi Neotrust, via Meio & Mensagem."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "69,4 milhões de produtos",
+      "body": "É a previsão de itens vendidos na Black Friday de 2026, alta de **15,4%**.\n\nFonte: Confi Neotrust, via Reuters."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Categorias em destaque",
+      "body": "Projeção para a data: eletrodomésticos **+44,5%**, moda e acessórios **+44,2%** e beleza e perfumaria **+69,8%**.\n\nFonte: Confi Neotrust."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": "Depois vem o Natal",
+      "body": "No Natal e Ano Novo de 2025 (19 a 31/12), o e-commerce faturou **R$ 10,8 bi**, alta de 18,7%.\n\nFonte: Confi Neotrust, via Mercado & Consumo."
+    },
+    {
+      "type": "list",
+      "title": "Como preparar a loja até 26/11",
+      "items": [
+        "**Frete e prazo** revisados para dezembro",
+        "**Kits e combos** para aumentar o carrinho",
+        "**Checkout** testado no celular",
+        "Estoque e páginas dos **mais vendidos** em dia"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Sua loja está pronta para novembro?",
+      "body": "A Ubee revisa e implanta lojas Tray e Nuvemshop.",
+      "button": "Fale com a Ubee"
+    }
+  ]
+}
