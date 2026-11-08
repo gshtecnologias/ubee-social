@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-08-mito-loja-bonita",
+  "kicker": "Mito vs verdade",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "Mito: *loja bonita* vende sozinha", "subtitle": "O layout passa confiança. A venda depende de 5 pontos que o visual não resolve. Veja se sua loja passa no 1º."},
+    {"type": "step", "n": 1, "title": "Página de produto que tira dúvidas", "body": "Fotos de vários ângulos, **medidas**, material e prazo de entrega. Quando falta informação, muita gente fecha a aba em vez de perguntar."},
+    {"type": "step", "n": 2, "title": "Frete visível antes do carrinho", "body": "Deixe o cálculo de **frete e prazo** na página do produto. Descobrir o valor só na hora de pagar é um motivo comum de desistência."},
+    {"type": "step", "n": 3, "title": "Rápida no celular", "body": "Banner pesado e foto sem compressão deixam a loja lenta. Teste a sua no **PageSpeed Insights**, ferramenta gratuita do Google."},
+    {"type": "step", "n": 4, "title": "Checkout sem obstáculo", "body": "Poucos passos, só os campos necessários e as formas de pagamento que seu cliente usa, como **Pix** e cartão."},
+    {"type": "step", "n": 5, "title": "Gente chegando à vitrine", "body": "Loja sem visita não vende, por mais bonita que seja. **Instagram, WhatsApp, Google e anúncios** levam o cliente até ela."},
+    {"type": "cta", "title": "Bonita e pronta para vender", "body": "O layout abre a porta. Produto, frete, velocidade, checkout e tráfego fecham a venda. Mande para o lojista que pensa em trocar só o visual.", "button": "Envie para um lojista"}
+  ],
+  "story": {
+    "title": "Loja bonita *vende sozinha*?",
+    "body": "Mito. Veja os 5 pontos que o layout não resolve.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Loja bonita vende sozinha? 5 pontos que decidem a venda na loja virtual",
+    "subtitle": "Página de produto, frete, velocidade no celular, checkout e tráfego.",
+    "button": "Saiba mais"
+  }
+}
