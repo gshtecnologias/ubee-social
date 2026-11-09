@@ -1,5 +1,19 @@
 [
   {
+    "slug": "loja-nuvemshop",
+    "date": "2026-11-09T09:00:00-03:00",
+    "title": "Guia completo da loja Nuvemshop: do plano ao lançamento",
+    "path": "pages/guia-loja-nuvemshop.md",
+    "type": "guia"
+  },
+  {
+    "slug": "cosmeticos-e-beleza",
+    "date": "2026-11-09T09:00:00-03:00",
+    "title": "Loja virtual de cosméticos e beleza: como montar na Tray ou na Nuvemshop",
+    "path": "pages/segmento-cosmeticos-e-beleza.md",
+    "type": "segmento"
+  },
+  {
     "slug": "loja-tray",
     "date": "2026-11-05T09:00:00-03:00",
     "title": "Guia completo da loja Tray: do plano ao lançamento",

@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-09-seo",
+  "kicker": "Loja de beleza",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Loja de cosméticos online: *6 pontos* que substituem o teste no balcão",
+      "subtitle": "O cliente não pode experimentar. Sua loja precisa responder por ele."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Ficha que diz para quem serve",
+      "body": "Tipo de pele ou cabelo, **como usar**, volume e principais ingredientes, em tópicos curtos."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Foto de textura e cor real",
+      "body": "Embalagem, **textura aplicada** e o tom na pele, com luz natural e **sem filtro**."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Tons como variações",
+      "body": "Cada cor é uma **variação com foto e estoque próprios**, no mesmo produto."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": "Menu por necessidade",
+      "body": "**Rosto, cabelo, corpo, maquiagem, kits.** Quem não sabe a marca acha pelo que quer resolver."
+    },
+    {
+      "type": "list",
+      "title": "5 e 6: segunda compra",
+      "items": [
+        "**Kits e refis** para quem já é cliente",
+        "**Pós-venda** com dica de uso e cupom com regra clara"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Guia completo de loja virtual de cosméticos",
+      "body": "Tray ou Nuvemshop, layout, frete e erros comuns. Link na bio.",
+      "button": "Salve o post"
+    }
+  ],
+  "pin": {
+    "title": "Loja virtual de cosméticos e beleza: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Ficha do produto, fotos de textura e cor, kits, recompra e frete.",
+    "button": "Leia o guia"
+  },
+  "blog_cover": {
+    "kicker": "Loja virtual de beleza",
+    "title": "Loja virtual de *cosméticos*: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Ficha, fotos, variações, recompra e frete"
+  }
+}
