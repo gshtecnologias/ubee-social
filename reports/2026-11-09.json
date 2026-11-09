@@ -132,8 +132,10 @@
   ],
   "por_linha_editorial": {
     "educativo_10h": {
-      "grupos_publicados": 6,
-      "com_metricas": 1
+      "previstos": 7,
+      "no_publicador": 3,
+      "com_metricas": 1,
+      "detalhe": "05/11, 06/11, 08/11; 02/11 e 03/11 Agendado no calendário mas fora do publicador GSH"
     },
     "venda_planos_15h": {
       "previstos_regra": 5,
@@ -144,15 +146,23 @@
       "detalhe": "03/11 e 05/11 Nuvemshop e 06/11 Tray falharam (página de parceria não pôde ser aberta para conferir condições); 02/11 Tray marcado Agendado no calendário mas não aparece no publicador GSH (pode ter ido por outra ferramenta, não verificável sem Metricool); 5º post da semana não consta no histórico"
     },
     "tendencias_20h": {
-      "grupos_publicados": 3,
+      "previstos": 3,
+      "no_publicador": 3,
       "com_metricas": 1
     },
     "temas_sabado": {
-      "grupos_publicados": 1,
-      "com_metricas": 0
+      "previstos": 1,
+      "no_publicador": 1,
+      "com_metricas": 0,
+      "simulado_extra": "Reel ConvertMax Baby 03/11"
     },
     "seo_divulgacao": {
       "grupos_publicados": 1,
+      "com_metricas": 0
+    },
+    "stories_18h": {
+      "previstos": 7,
+      "no_publicador": 4,
       "com_metricas": 0
     }
   },
