@@ -1,0 +1,172 @@
+{
+  "relatorio": "Relatório semanal Ubee",
+  "gerado_em": "2026-11-09",
+  "periodo": {
+    "de": "2026-11-02",
+    "ate": "2026-11-08",
+    "fuso": "America/Sao_Paulo"
+  },
+  "periodo_comparacao": {
+    "de": "2026-10-26",
+    "ate": "2026-11-01",
+    "posts_publicados": 0,
+    "observacao": "Nenhum post publicado nessa semana; sem base de comparação."
+  },
+  "fontes": {
+    "metricool": "indisponível nesta execução (conector não presente na sessão); TikTok, YouTube, Pinterest, LinkedIn e Google sem dados",
+    "publicador_gsh": "metricas_periodo (15 dias), melhores_horarios (30 dias), listar_posts 26/10 a 08/11, status_contas",
+    "calendario": "https://claude.ai/artifact/7NjUtVkjmsAqk9MsididcB (Histórico de publicações, rev 50)"
+  },
+  "contas": {
+    "instagram": "@ubeedigital ok",
+    "facebook": "Ubee Digital ok",
+    "tiktok": "não conectado",
+    "youtube": "não conectado",
+    "pinterest": "não conectado",
+    "linkedin": "não conectado",
+    "google_business": "não conectado"
+  },
+  "resumo": {
+    "posts_publicados": 26,
+    "posts_por_rede": {
+      "instagram": 13,
+      "facebook": 13
+    },
+    "posts_simulados": 2,
+    "posts_com_metricas": 3,
+    "totais_com_metricas": {
+      "views": 10,
+      "alcance": 2,
+      "curtidas": 1,
+      "comentarios": 0,
+      "compartilhamentos": 0,
+      "salvos": 0,
+      "cliques": 0,
+      "interacoes": 2
+    },
+    "seguidores_ganhos": null,
+    "seguidores_observacao": "A fonte disponível (GSH) não informa seguidores; Metricool indisponível."
+  },
+  "por_rede": {
+    "instagram": {
+      "publicados": 13,
+      "com_metricas": 2,
+      "views": 10,
+      "alcance": 2,
+      "curtidas": 1,
+      "interacoes": 2
+    },
+    "facebook": {
+      "publicados": 13,
+      "com_metricas": 1,
+      "views": 0,
+      "alcance": 0,
+      "curtidas": 0,
+      "cliques": 0,
+      "interacoes": 0
+    }
+  },
+  "por_formato": {
+    "carousel": {
+      "publicados": 10,
+      "com_metricas": 2,
+      "media_views": 4.5,
+      "media_alcance": 1,
+      "media_interacoes": 1
+    },
+    "reel": {
+      "publicados": 8,
+      "com_metricas": 1,
+      "media_views": 1,
+      "media_alcance": 0,
+      "media_interacoes": 0
+    },
+    "story": {
+      "publicados": 8,
+      "com_metricas": 0
+    }
+  },
+  "posts_com_metricas": [
+    {
+      "id": 3,
+      "rede": "instagram",
+      "formato": "carousel",
+      "publicado_em": "2026-11-05 08:10",
+      "linha": "Informativo e-commerce (10h)",
+      "pauta": "7 itens que toda página de produto precisa (IG5)",
+      "plataforma": "Tray e Nuvemshop",
+      "views": 9,
+      "alcance": 2,
+      "curtidas": 1,
+      "interacoes": 2,
+      "link": "https://www.instagram.com/p/DfW5FdGldwi/"
+    },
+    {
+      "id": 9,
+      "rede": "instagram",
+      "formato": "reel",
+      "publicado_em": "2026-11-05 08:43",
+      "linha": "Tendências (20h)",
+      "pauta": "Marketplaces: onde vender em 2026",
+      "plataforma": "geral",
+      "views": 1,
+      "alcance": 0,
+      "curtidas": 0,
+      "interacoes": 0,
+      "link": "https://www.instagram.com/reel/DfW8Ewxjzyy/"
+    },
+    {
+      "id": 4,
+      "rede": "facebook",
+      "formato": "carousel",
+      "publicado_em": "2026-11-05 08:10",
+      "linha": "Informativo e-commerce (10h)",
+      "pauta": "7 itens que toda página de produto precisa (IG5)",
+      "plataforma": "Tray e Nuvemshop",
+      "views": 0,
+      "alcance": 0,
+      "curtidas": 0,
+      "interacoes": 0,
+      "link": "https://www.facebook.com/122142842151386756/posts/122142842139386756"
+    }
+  ],
+  "por_linha_editorial": {
+    "educativo_10h": {
+      "grupos_publicados": 6,
+      "com_metricas": 1
+    },
+    "venda_planos_15h": {
+      "previstos_regra": 5,
+      "no_historico": 4,
+      "publicados_confirmados_gsh": 0,
+      "falhas": 3,
+      "sem_registro_gsh": 1,
+      "detalhe": "03/11 e 05/11 Nuvemshop e 06/11 Tray falharam (página de parceria não pôde ser aberta para conferir condições); 02/11 Tray marcado Agendado no calendário mas não aparece no publicador GSH (pode ter ido por outra ferramenta, não verificável sem Metricool); 5º post da semana não consta no histórico"
+    },
+    "tendencias_20h": {
+      "grupos_publicados": 3,
+      "com_metricas": 1
+    },
+    "temas_sabado": {
+      "grupos_publicados": 1,
+      "com_metricas": 0
+    },
+    "seo_divulgacao": {
+      "grupos_publicados": 1,
+      "com_metricas": 0
+    }
+  },
+  "melhores_horarios_gsh": {
+    "amostra": 3,
+    "quinta_08h": {
+      "media_interacoes": 0.7,
+      "media_alcance": 0.7
+    },
+    "observacao": "Amostra pequena: indicação, não regra."
+  },
+  "ajustes_calendario": [],
+  "ajustes_motivo": "Nenhuma mudança: só 1 semana com posts e apenas 3 de 26 com métricas; a regra exige evidência de pelo menos 2 semanas.",
+  "observacoes": [
+    "Posts de 02/11 e 03/11 marcados como Agendado no calendário não aparecem no publicador GSH; sem Metricool não foi possível medir esses posts."
+  ]
+}
