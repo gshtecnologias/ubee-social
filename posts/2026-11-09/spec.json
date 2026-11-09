@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-09-cupons-de-desconto-tray",
+  "kicker": "Dica Tray",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "5 tipos de *cupom de desconto* e quando usar cada um na Tray", "subtitle": "Cupom bom traz venda sem comer a margem. O 3º é o que mais protege o seu lucro."},
+    {"type": "step", "n": 1, "title": "Desconto em porcentagem", "body": "Funciona em campanhas e datas comerciais, como a **Black Friday**. Antes de criar, confira se a margem dos produtos aguenta o desconto."},
+    {"type": "step", "n": 2, "title": "Desconto em valor fixo", "body": "Um valor em reais fica mais fácil de entender. Combine com um **valor mínimo de pedido** para o desconto não pesar nas compras pequenas."},
+    {"type": "step", "n": 3, "title": "Frete grátis com valor mínimo", "body": "Frete costuma pesar na decisão de compra. Com um mínimo **um pouco acima do seu ticket médio**, o cliente adiciona mais um item para ganhar o benefício."},
+    {"type": "step", "n": 4, "title": "Cupom de primeira compra", "body": "Ofereça em troca do **cadastro ou do e-mail**. Você ganha o contato do cliente para as próximas campanhas, mesmo que ele não compre hoje."},
+    {"type": "step", "n": 5, "title": "Cupom de uso único", "body": "Para **reconquistar** quem não volta há meses ou para quem deixou o carrinho. Limite a um uso por cliente e com validade curta."},
+    {"type": "list", "title": "Antes de ativar qualquer cupom", "items": ["Validade definida", "Valor mínimo de pedido", "Limite de usos", "Produtos ou categorias que entram", "Se acumula com outras promoções"]},
+    {"type": "cta", "title": "Cada cupom tem um trabalho", "body": "Porcentagem para campanha, valor fixo e frete grátis para o ticket, primeira compra para captar e uso único para reconquistar.", "button": "Salve para a Black Friday"}
+  ],
+  "story": {
+    "title": "Seu cupom *traz venda* ou só tira margem?",
+    "body": "5 tipos de cupom e quando usar cada um na sua loja Tray.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Cupom de desconto na Tray: 5 tipos e quando usar cada um",
+    "subtitle": "Porcentagem, valor fixo, frete grátis, primeira compra e uso único, com as regras para não perder margem.",
+    "button": "Leia no blog"
+  }
+}
