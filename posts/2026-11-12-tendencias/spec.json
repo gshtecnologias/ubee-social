@@ -1,0 +1,15 @@
+{
+  "id": "2026-11-12-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "*55%* já deixaram de comprar de uma marca que a IA não recomendou", "subtitle": "Estudo Conversion e Opinion Box com 1.121 consumidores que usam IA (Meio & Mensagem, 05/11/2026)."},
+    {"type": "step", "n": 1, "title": "69% mudaram de opinião", "body": "sobre uma marca ou produto **depois de uma recomendação da IA**.\n\nFonte: Conversion e Opinion Box."},
+    {"type": "step", "n": 2, "title": "79% usaram a IA para decidir", "body": "Entre quem pediu indicação de produto, a IA foi **decisiva para tirar dúvidas** sobre o que comprar.\n\nFonte: Conversion e Opinion Box."},
+    {"type": "step", "n": 3, "title": "83% vão conferir antes", "body": "quando a IA indica uma marca desconhecida. Onde checam: **Google (59%)**, **Reclame Aqui (46%)** e **site da empresa (42%)**."},
+    {"type": "step", "n": 4, "title": "Empresas apostam em GEO", "body": "**56%** dos profissionais ouvidos querem adaptar site e dados para a IA recomendar a empresa. Só **3%** vão aumentar a mídia paga."},
+    {"type": "list", "title": "O que a loja pode fazer agora", "items": ["Descrições de produto **completas**", "Perguntas frequentes nas páginas", "Reputação cuidada no **Reclame Aqui**", "Contato, CNPJ e trocas claros no site"]},
+    {"type": "cta", "title": "Sua loja está pronta para ser indicada?", "body": "A Ubee estrutura páginas e SEO de lojas Tray e Nuvemshop.", "button": "Fale com a Ubee"}
+  ]
+}

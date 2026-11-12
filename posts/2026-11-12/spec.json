@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-12-abandono-no-checkout",
+  "kicker": "Dica de e-commerce",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "Para *30%*, o frete é o motivo nº 1 para desistir da compra", "subtitle": "Serasa Experian, set/2026. 5 pontos do checkout para revisar antes da Black Friday. O 2º quase ninguém confere."},
+    {"type": "step", "n": 1, "title": "Frete visível na página do produto", "body": "Deixe o cálculo de frete por CEP **antes do carrinho**. Quando o valor só aparece no fim, é ali que o cliente fecha a aba."},
+    {"type": "step", "n": 2, "title": "Prazo de entrega claro", "body": "O cliente olha o valor e também **quando o pedido chega**. Revise os prazos das transportadoras para o pico de novembro e dezembro."},
+    {"type": "step", "n": 3, "title": "Frete grátis a partir de um valor", "body": "Um valor mínimo **um pouco acima do seu ticket médio** faz o cliente levar mais um item para ganhar o benefício, sem pesar na margem."},
+    {"type": "step", "n": 4, "title": "Checkout curto", "body": "Peça só os dados necessários para entregar e cobrar. Cada campo a mais é **mais um motivo para desistir** no celular."},
+    {"type": "step", "n": 5, "title": "Pagamento à vista antes do carrinho", "body": "Mostre **Pix, cartão e parcelamento** na página do produto. Se tem desconto no Pix, deixe isso escrito ali."},
+    {"type": "list", "title": "Teste de 5 minutos no celular", "items": ["Simule o frete para **3 CEPs** diferentes", "Compre um produto até o fim, com Pix", "Aplique um cupom no carrinho", "Confira o e-mail de confirmação"]},
+    {"type": "cta", "title": "Frete claro, checkout curto", "body": "Valor e prazo antes do carrinho, frete grátis com mínimo, poucos campos e pagamento à vista.", "button": "Salve para revisar a loja"}
+  ],
+  "story": {
+    "title": "O frete faz *30%* desistirem da compra",
+    "body": "5 pontos do checkout para revisar antes da Black Friday.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Abandono no checkout: 5 pontos para revisar antes da Black Friday",
+    "subtitle": "Frete visível, prazo claro, frete grátis com mínimo, checkout curto e pagamento à vista.",
+    "button": "Saiba mais"
+  }
+}
