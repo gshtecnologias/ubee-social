@@ -1,0 +1,61 @@
+{
+  "id": "2026-11-13-seo",
+  "kicker": "Loja infantil",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {
+      "type": "cover",
+      "title": "Loja de roupa infantil: *6 pontos* que respondem \"vai servir?\"",
+      "subtitle": "Quem compra quase nunca é quem veste. Sua loja precisa ajudar a acertar."
+    },
+    {
+      "type": "step",
+      "n": 1,
+      "title": "Tabela de medidas por peça",
+      "body": "Idade aproximada **e medidas reais da peça**, com o link ao lado do seletor de tamanho."
+    },
+    {
+      "type": "step",
+      "n": 2,
+      "title": "Grade padronizada",
+      "body": "Cada tamanho é uma **variação com estoque próprio**, com o mesmo nome em todo o catálogo."
+    },
+    {
+      "type": "step",
+      "n": 3,
+      "title": "Foto com noção de tamanho",
+      "body": "Peça inteira, **detalhes de perto** e a idade e altura da criança na foto vestida."
+    },
+    {
+      "type": "step",
+      "n": 4,
+      "title": "Menu por idade e ocasião",
+      "body": "**Bebê, infantil, juvenil, saída de maternidade, festa.** É assim que quem dá presente procura."
+    },
+    {
+      "type": "list",
+      "title": "5 e 6: confiança e recompra",
+      "items": [
+        "**Troca de tamanho fácil**, avisada no produto e no carrinho",
+        "**Pós-venda** lembrando o próximo tamanho"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Guia completo de loja virtual de moda infantil",
+      "body": "Tray ou Nuvemshop, layout, frete e erros comuns. Link na bio.",
+      "button": "Salve o post"
+    }
+  ],
+  "pin": {
+    "title": "Loja virtual de moda infantil: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Tabela de medidas, grade de tamanhos, fotos, menu por idade e frete.",
+    "button": "Leia o guia"
+  },
+  "blog_cover": {
+    "kicker": "Loja virtual infantil",
+    "title": "Loja virtual de *moda infantil*: como montar na Tray ou na Nuvemshop",
+    "subtitle": "Medidas, grade, fotos, menu e frete"
+  }
+}
