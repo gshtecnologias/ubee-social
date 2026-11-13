@@ -35,4 +35,4 @@ Modo: ig-humanizer --mode audit. Telas (7) + legendas de Instagram e Facebook.
 - Agendamento não feito: o conector GSH (publicador/Metricool) estava fora do ar (404) nesta execução de 13/11. Artes, vídeo e legendas ficam prontos aqui para agendar quando o conector voltar (Instagram e Facebook 12:30; TikTok e YouTube com o video.mp4; post no Perfil da Empresa no Google com o texto "gbp" de legendas.json, se estiver conectado).
 
 ## Veredito
-**Aprovado sem bloqueio** (conteúdo). Não agendado por falha do conector.
+**Aprovado sem bloqueio** (conteúdo). Agendado na reexecução de 13/11: Instagram e Facebook, carrossel 12:30 (posts 39 e 40 no GSH). TikTok, YouTube e Perfil da Empresa no Google não conectados.
