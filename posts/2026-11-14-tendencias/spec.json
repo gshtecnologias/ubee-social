@@ -1,0 +1,16 @@
+{
+  "id": "2026-11-14-tendencias",
+  "kicker": "Tendências",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br",
+  "carousel": [
+    {"type": "cover", "title": "Só *20%* vão deixar as compras para a sexta da Black Friday", "subtitle": "Pesquisa LWSA, via E-Commerce Brasil (21/09/2026). O resto compra ao longo de novembro."},
+    {"type": "step", "n": 1, "title": "54% compram o mês todo", "body": "**Mais da metade** pretende aproveitar ofertas ao longo de novembro, não só no dia 27.\n\nFonte: LWSA."},
+    {"type": "step", "n": 2, "title": "50% pesquisam com antecedência", "body": "Metade começa a comparar produtos **mais de um mês antes** da data.\n\nFonte: LWSA."},
+    {"type": "step", "n": 3, "title": "66% vão adiantar o Natal", "body": "Entre quem pretende comprar na data, **66,1%** querem antecipar parte das compras de fim de ano.\n\nFonte: DM, out/2026."},
+    {"type": "step", "n": 4, "title": "O frete pesa na decisão", "body": "**55%** sempre buscam frete grátis e **36%** podem desistir de uma boa oferta pelo valor do frete.\n\nFonte: LWSA."},
+    {"type": "step", "n": 5, "title": "Parcelamento e Pix", "body": "**58%** preferem cartão parcelado sem juros e **59%** dizem que desconto no Pix pesa na decisão.\n\nFonte: LWSA."},
+    {"type": "list", "title": "O que ajustar na loja até o dia 27", "items": ["Ofertas no ar **antes** da sexta", "Regra de frete clara na página", "Parcelas e desconto no Pix **visíveis**", "Vitrine de Natal logo em seguida"]},
+    {"type": "cta", "title": "Sua loja está pronta para novembro inteiro?", "body": "A Ubee implanta e ajusta lojas Tray e Nuvemshop.", "button": "Fale com a Ubee"}
+  ]
+}

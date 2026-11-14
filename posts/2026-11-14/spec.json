@@ -1,0 +1,25 @@
+{
+  "id": "2026-11-14-tema-beleza",
+  "kicker": "Temas prontos",
+  "handle": "@ubeedigital",
+  "site": "ubee.com.br/temas-prontos",
+  "carousel": [
+    {"type": "cover", "title": "Chegou lançamento e o banner da loja *ainda é o do mês passado*?", "subtitle": "5 pontos do Tema Beleza da Ubee Digital para Tray. O 1º resolve exatamente isso."},
+    {"type": "step", "n": 1, "title": "Vitrine trocada sem programar", "body": "**Cores, fontes e banners** personalizados sem código. Chegou o kit de Natal ou a linha nova? Você atualiza a vitrine no mesmo dia."},
+    {"type": "step", "n": 2, "title": "Pensado primeiro para o celular", "body": "Layout responsivo com foco no **mobile**. Quem vê o batom no Instagram abre a loja no celular, e a página precisa funcionar ali."},
+    {"type": "step", "n": 3, "title": "Feito para abrir rápido", "body": "Performance **90+ no Lighthouse**, a ferramenta do Google que mede velocidade e qualidade da página. Loja de beleza tem muita foto de produto."},
+    {"type": "step", "n": 4, "title": "Estrutura de SEO pronta", "body": "Base organizada para o Google ler categorias e produtos. Com nomes como **sérum de vitamina C 30 ml**, a cliente acha o item na busca."},
+    {"type": "step", "n": 5, "title": "Instalação com a Ubee", "body": "A equipe da **Ubee Digital** acompanha a instalação do tema na sua loja **Tray**. Você não fica sozinha nessa etapa."},
+    {"type": "cta", "title": "Compare com a sua loja hoje", "body": "Abra sua loja no celular e confira os 5 pontos antes do próximo lançamento.", "button": "Salve o post"}
+  ],
+  "story": {
+    "title": "O banner da sua loja de beleza *acompanha os lançamentos*?",
+    "body": "5 pontos do Tema Beleza da Ubee Digital para Tray.",
+    "cta": "Veja o post completo no feed"
+  },
+  "pin": {
+    "title": "Tema Beleza para Tray: 5 pontos para sua loja de cosméticos",
+    "subtitle": "Personalização sem código, foco no celular, velocidade, SEO e suporte na instalação.",
+    "button": "Veja o tema"
+  }
+}
